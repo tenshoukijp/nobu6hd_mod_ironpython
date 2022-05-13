@@ -1,0 +1,6 @@
+・main-ipy-maint.zip を解凍
+・Solution の中のIronPython.slnが全体
+・Releaseで
+・各々のプロジェクトでデバッグ情報の.pdbを消す
+・4.0用はそのままビルドでＯＫ
+・4.6用は一旦、45Releaseを選んだ後、プラットフォームの情報を4.6にしていく。
